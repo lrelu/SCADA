@@ -1,0 +1,19 @@
+[SaveInfo]
+Version=V3.90
+Copyright=(Release : R180824)
+[PAGE_MAIN.PGX]
+x=0
+y=0
+cx=1226
+cy=801
+[InitPage]
+InitPage=PAGE_Main.pgx
+[Recent File]
+Page1=PAGE_MAIN.PGX
+Page2=PAGE_SUB.PGX
+Page Number=1
+[PAGE_SUB.PGX]
+x=25
+y=73
+cx=1244
+cy=778
